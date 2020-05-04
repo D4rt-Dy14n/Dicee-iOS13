@@ -1,6 +1,9 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
+
+This is an extended version of the Dicee app from the Angela Yu course (https://www.udemy.com/course/ios-13-app-development-bootcamp).
+
+I also added "Clear" button and 3 labels that show statistics of rolling.
 
 ## Our Goal
 
