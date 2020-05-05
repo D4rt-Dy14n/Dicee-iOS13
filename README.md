@@ -1,7 +1,9 @@
 
 # Dicee
 
-This is an extended version of a Dicee game from iOS 13 & Swift 5 course by Angela Yu (https://www.udemy.com/course/ios-13-app-development-bootcamp).
+An extended version of a Dicee game.
+
+This is the app I made learning iOS 13 & Swift 5 course by Angela Yu (https://www.udemy.com/course/ios-13-app-development-bootcamp).
 
 I extended code by adding "Clear" button and 3 labels that show statistics of rolling.
 
